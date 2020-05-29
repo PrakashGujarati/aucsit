@@ -127,7 +127,7 @@
                             <span >(Dr)Jignesh Hirapara</span>
                             <span >(Dr)Amit Patel</span>
                             <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank" target="_blank"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
@@ -144,7 +144,7 @@
                             <span >Dr. Pratik Vanjara</span>
                             <span >(Dr) Priyank Doshi</span>
                             <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
@@ -162,7 +162,7 @@
                             <span>Nimit Ganatra</span>
                             <span>&nbsp;</span>
                             <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
@@ -181,7 +181,7 @@
                              <span class="text-info">Keynote Speakers</span>
                             <span >Chirag Jagani</span>
                             <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
@@ -198,7 +198,7 @@
                              <span class="text-info">Keynote Speakers</span>
                             <span >Chirag Jagani</span>
                             <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
@@ -216,7 +216,7 @@
                             <span >Nehal Dave</span>
                             <span >(Dr) Priti Sadaria</span>
                             <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
@@ -236,7 +236,7 @@
                              <span class="text-info">Keynote Speakers</span>
                              <span>Disha Ganatra</span>                                   
                             <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
@@ -254,7 +254,7 @@
                              <span >(Dr) Prakash Gujarati</span>
                              <span >Jitendra Timrai</span>
                             <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
@@ -271,7 +271,7 @@
                              <span class="text-info">Keynote Speakers</span>
                             <span >Dr. Stavan Patel</span>
                             <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
