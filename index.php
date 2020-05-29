@@ -7,8 +7,10 @@
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title></title>
-
+    <title>AU-CS&IT</title>
+	
+	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="img/favicon.ico" type="image/x-icon">
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900&display=swap" rel="stylesheet">
 
@@ -125,7 +127,7 @@
                             <span >(Dr)Jignesh Hirapara</span>
                             <span >(Dr)Amit Patel</span>
                             <hr>
-                            <a href="#" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
@@ -142,7 +144,7 @@
                             <span >Dr. Pratik Vanjara</span>
                             <span >(Dr) Priyank Doshi</span>
                             <hr>
-                            <a href="#" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
@@ -160,7 +162,7 @@
                             <span>Nimit Ganatra</span>
                             <span>&nbsp;</span>
                             <hr>
-                            <a href="#" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
@@ -179,7 +181,7 @@
                              <span class="text-info">Keynote Speakers</span>
                             <span >Chirag Jagani</span>
                             <hr>
-                            <a href="#" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
@@ -196,7 +198,7 @@
                              <span class="text-info">Keynote Speakers</span>
                             <span >Chirag Jagani</span>
                             <hr>
-                            <a href="#" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
@@ -214,7 +216,7 @@
                             <span >Nehal Dave</span>
                             <span >(Dr) Priti Sadaria</span>
                             <hr>
-                            <a href="#" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
@@ -234,7 +236,7 @@
                              <span class="text-info">Keynote Speakers</span>
                              <span>Disha Ganatra</span>                                   
                             <hr>
-                            <a href="#" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
@@ -252,7 +254,7 @@
                              <span >(Dr) Prakash Gujarati</span>
                              <span >Jitendra Timrai</span>
                             <hr>
-                            <a href="#" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
@@ -269,7 +271,7 @@
                              <span class="text-info">Keynote Speakers</span>
                             <span >Dr. Stavan Patel</span>
                             <hr>
-                            <a href="#" class="btn btn-success"><strong>Register</strong> </a>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
