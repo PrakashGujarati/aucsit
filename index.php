@@ -146,8 +146,12 @@
                             <hr>
                              <span>4<sup>th</sup> June - 7<sup>th</sup> June</span>
                              <span class="text-danger">Everyday 10:00 AM - 11:00 AM</span>
-
                              <hr>
+                              <span class="text-danger">Google ClassRoom</span>
+                             <span class="text-danger">Google Form/Quiz</span>
+                              <span class="text-danger">Google Docs, Sheets, Slides</span>
+                             <span class="text-danger">Google Site, Blogger</span>
+                             <span class="text-danger">Google Translate</span>
                              <span class="text-info">Keynote Speakers</span>
                             <span >Dr. Pratik Vanjara</span>
                             <span >(Dr) Priyank Doshi</span>
@@ -160,7 +164,7 @@
                     <div class="tickets-table">
                         <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/basic_comm.jpg"></h2>
-                            <h3 class="price">Basics Communication &nbsp;&nbsp;&nbsp;&nbsp;</h3>
+                            <h3 class="price">Basics Communication &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
 
                             <hr>
                             <span>2<sup>nd</sup> June - 6<sup>th</sup> June</span>
@@ -195,6 +199,7 @@
                             <span class="text-danger">Install Configure PHP7.3</span>
                             <span class="text-danger">Install Configure MySQL server</span>
                             <span class="text-danger">Install Composer and other tool for web development</span>
+                             <span class="text-danger">Optimize server settings</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                             <span >Chirag Jagani</span>
