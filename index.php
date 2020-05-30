@@ -155,7 +155,7 @@
                              <span class="text-grey">Google Form/Quiz</span>
                               <span class="text-grey">Google Docs, Sheets, Slides</span>
                              <span class="text-grey">Google Site, Blogger</span>
-                             <span class="text-grey">Google Translate</span>
+                             <span class="text-grey">Google Ads & pay</span>
                              <span class="text-info">Keynote Speakers</span>
                               <hr>
                             <span >Dr. Pratik Vanjara</span>
@@ -220,6 +220,12 @@
                             <h3 class="price">How to be a successful freelancer
                             </h3>
                             <hr>
+                             <span class="text-grey">Discovering skills</span>
+                            <span class="text-grey">Be "present," even if you're off-site</span>
+                            <span class="text-grey">Find projects and start bidding</span>
+                            <span class="text-grey"> Understand the power of regular communication</span>
+                             <span class="text-grey">Be open—and transparent</span>
+                             <hr>
                              <span>6<sup>th</sup> June</span>
                              <span class="text-danger">12:00 PM - 2:00 PM</span>
                              <hr>
@@ -323,7 +329,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="tickets-table">
                         <div class="table-price text-center">
-                            <h2 class="table-title"><img src="img/computer-world.jpg"></h2>
+                            <h2 class="table-title"><img src="img/digital-file.jpg"></h2>
                             <h3 class="price">Digital File Organization
                             </h3>
                             <hr>
