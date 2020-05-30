@@ -222,10 +222,11 @@
                             <h2 class="table-title"><img src="img/freelancer.png"></h2>
                             <h3 class="price">How to be a successful freelancer
                             </h3>
+                            <hr>
                              <span>6<sup>th</sup> June</span>
                              <span class="text-danger">12:00 PM - 2:00 PM</span>
                              <hr>
-                            <hr>
+                            
                              <span class="text-grey">Discovering skills</span>
                             <span class="text-grey">Be "present," even if you're off-site</span>
                             <span class="text-grey">Find projects and start bidding</span>
