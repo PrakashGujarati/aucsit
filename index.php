@@ -348,7 +348,7 @@
                                <span class="text-grey">Coloring Folders</span>
                             <span class="text-grey">Add Emojis to Folders</span>
                             <span class="text-grey">Uploading, Moving & Sharing Files</span>
-                            <span class="text-grey">Passport Photo, card making</span>
+                          
                              <span class="text-grey">Using Google keep tool</span>
                               <span class="text-grey">Group Discussion</span>
                              <hr>
