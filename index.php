@@ -77,7 +77,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <span>June 28<sup>TH</sup> - 31<sup>TH</sup> 2020 </span>
+                            <span>June 02<sup>ND</sup> - 10<sup>TH</sup> 2020 </span>
                             <h1>Webinar <br />Series - 2020</h1>
                             <h2 class="f-bold">Atmiya University, Rajkot</h2>
                         </div>
@@ -96,7 +96,7 @@
                 <div class="col-lg-6">
                     <div class="event-name">
                         <h2>First Event</h2>
-                        <h4>June 28, 2020 <span>Starting @ 10:00 AM</span></h4>
+                        <h4>June 02, 2020 <span>Starting @ 10:00 AM</span></h4>
                     </div>
                 </div>
                 <div class="col-lg-6">
