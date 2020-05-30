@@ -158,7 +158,7 @@
                              <span class="text-grey">Google Ads & pay</span>
                               <hr>
                              <span class="text-info">Keynote Speakers</span>
-                              <hr>
+                            
                             <span >Dr. Pratik Vanjara</span>
                             <span >Dr. Priyank Doshi</span>
                             <hr>
