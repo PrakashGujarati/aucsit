@@ -222,16 +222,17 @@
                             <h2 class="table-title"><img src="img/freelancer.png"></h2>
                             <h3 class="price">How to be a successful freelancer
                             </h3>
+                             <span>6<sup>th</sup> June</span>
+                             <span class="text-danger">12:00 PM - 2:00 PM</span>
+                             <hr>
                             <hr>
                              <span class="text-grey">Discovering skills</span>
                             <span class="text-grey">Be "present," even if you're off-site</span>
                             <span class="text-grey">Find projects and start bidding</span>
-                            <span class="text-grey"> Understand the power of regular communication</span>
+                            <span class="text-grey">The power of regular communication</span>
                              <span class="text-grey">Be open—and transparent</span>
                              <hr>
-                             <span>6<sup>th</sup> June</span>
-                             <span class="text-danger">12:00 PM - 2:00 PM</span>
-                             <hr>
+                            
                              <span class="text-info">Keynote Speakers</span>
                             <span >Chirag Jagani</span>
                             <hr>
@@ -246,15 +247,16 @@
                             <h3 class="price">Logic Building using SCRATCH Tool
                             </h3>
                             <hr>
+                             <span>4<sup>th</sup> June - 8<sup>st</sup> June</span>
+                             <span class="text-danger">Everyday 09:00 AM - 09:30 AM</span>
+                             <hr>
                              <span class="text-grey">Installation</span>
                             <span class="text-grey">Basic Arithmetic Operations</span>
                             <span class="text-grey">Control Statement</span>
                             <span class="text-grey">Moving Effect</span>
                             <span class="text-grey">Conversation</span>
                             <hr>
-                             <span>4<sup>th</sup> June - 8<sup>st</sup> June</span>
-                             <span class="text-danger">Everyday 09:00 AM - 09:30 AM</span>
-                             <hr>
+                            
                              <span class="text-info">Keynote Speakers</span>
                             <span >Nehal Dave</span>
                             <span >Dr. Priti Sadaria</span>
