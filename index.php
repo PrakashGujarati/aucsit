@@ -145,7 +145,7 @@
                             <h4 class="price">Google Tools & Techniques - Freeware</h4>
                             <hr>
                              <span>4<sup>th</sup> June - 7<sup>th</sup> June</span>
-                             <span class="text-warning">Everyday 10:00 AM - 11:00 AM</span>
+                             <span class="text-danger">Everyday 10:00 AM - 11:00 AM</span>
 
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
@@ -188,7 +188,7 @@
                             <h3 class="price">How to configure linux server for modern web development</h3>
                             <hr>
                                 <span>1<sup>st</sup> June - 4<sup>th</sup> June</span>
-                             <span class="text-warning">Everyday 12:00 PM - 1:00 PM</span>
+                             <span class="text-danger">Everyday 12:00 PM - 1:00 PM</span>
                              <hr>
                             <span class="text-danger">Installing Ubuntu Desktop on Virtual Box</span>
                             <span class="text-danger">Install & Configure Apache server</span>
@@ -211,7 +211,7 @@
                             </h3>
                             <hr>
                              <span>6<sup>th</sup> June</span>
-                             <span class="text-warning">12:00 PM - 2:00 PM</span>
+                             <span class="text-danger">12:00 PM - 2:00 PM</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                             <span >Chirag Jagani</span>
@@ -228,7 +228,7 @@
                             </h3>
                             <hr>
                              <span>4<sup>th</sup> June - 8<sup>st</sup> June</span>
-                             <span class="text-warning">Everyday 09:00 AM - 09:30 AM</span>
+                             <span class="text-danger">Everyday 09:00 AM - 09:30 AM</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                             <span >Nehal Dave</span>
@@ -249,7 +249,7 @@
                             </h3>
                             <hr>
                              <span>6<sup>th</sup> June - 8<sup>th</sup> June</span>
-                             <span class="text-warning">Everyday 12:00 PM - 1:00 PM</span>
+                             <span class="text-danger">Everyday 12:00 PM - 1:00 PM</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                              <span>Disha Ganatra</span>
@@ -266,7 +266,7 @@
                             </h3>
                             <hr>
                             <span>1<sup>st</sup> June - 6<sup>th</sup> June</span>
-                            <span class="text-warning">Everyday 11:00 AM - 12:00 PM</span>
+                            <span class="text-danger">Everyday 11:00 AM - 12:00 PM</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                              <span >(Dr) Prakash Gujarati</span>
@@ -284,7 +284,7 @@
                             </h3>
                             <hr>
                              <span>8<sup>th</sup> June</span>
-                             <span class="text-warning">10:00 AM - 11:00 AM</span>
+                             <span class="text-danger">10:00 AM - 11:00 AM</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                             <span >Dr. Stavan Patel</span>
@@ -301,7 +301,7 @@
                             </h3>
                             <hr>
                              <span>3<sup>rd</sup> June</span>
-                             <span class="text-warning">10:00 AM - 11:00 AM</span>
+                             <span class="text-danger">10:00 AM - 11:00 AM</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                             <span >(Dr) Falguni Parsana</span>
