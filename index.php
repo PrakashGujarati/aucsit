@@ -137,7 +137,7 @@
                             <h2 class="table-title"><img src="img/googletools.jpg"></h2>
                             <h4 class="price">Google Tools & Techniques - Freeware</h4>
                             <hr>
-                             <span>4<sup>th</sup> June - 9<sup>th</sup> June</span>
+                             <span>4<sup>th</sup> June - 7<sup>th</sup> June</span>
                              <span class="text-warning">Everyday 10:00 AM - 11:00 AM</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
