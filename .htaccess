@@ -1,4 +1,3 @@
 RewriteEngine On
-RewriteCond %{HTTPS} !on
-RewriteCond %{HTTP_HOST} ^aucsit\.herokuapp\.com [NC]
-RewriteRule .? https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+RewriteCond %{HTTP_HOST} ^aucsit.herokuapp.com$ [NC]
+RewriteRule ^(.*)$ https://www.aucsit.herokuapp.com%{REQUEST_URI} [R=301,NC,L,QSA]
