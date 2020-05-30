@@ -81,7 +81,7 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <span>June 02<sup>ND</sup> - 10<sup>TH</sup> 2020 </span>
-                            <h1>Webinar <br />Series - 2020</h1>
+                            <h1>Graduate Aspirants<br />12th Passed <br/>Students - 2020</h1>
                             <h2 class="f-bold">Atmiya University, Rajkot</h2>
                         </div>
                     </div>
@@ -156,6 +156,7 @@
                              <span class="text-grey">Google Site, Blogger</span>
                              <span class="text-grey">Google Translate</span>
                              <span class="text-info">Keynote Speakers</span>
+                              <hr>
                             <span >Dr. Pratik Vanjara</span>
                             <span >Dr.  Priyank Doshi</span>
                             <hr>
@@ -167,7 +168,7 @@
                     <div class="tickets-table">
                         <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/basic_comm.jpg"></h2>
-                            <h3 class="price">Basics Communication &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
+                            <h3 class="price">Basics Communication &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
 
                             <hr>
                             <span>2<sup>nd</sup> June - 6<sup>th</sup> June</span>
@@ -234,6 +235,12 @@
                             <h2 class="table-title"><img src="img/SCRATCH.jpeg"></h2>
                             <h3 class="price">Logic Building using SCRATCH Tool
                             </h3>
+                            <hr>
+                             <span class="text-grey">Installation</span>
+                            <span class="text-grey">Basic Arithmetic Operations</span>
+                            <span class="text-grey">Control Statement</span>
+                            <span class="text-grey">Moving Effect</span>
+                            <span class="text-grey">Conversation</span>
                             <hr>
                              <span>4<sup>th</sup> June - 8<sup>st</sup> June</span>
                              <span class="text-danger">Everyday 09:00 AM - 09:30 AM</span>
