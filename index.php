@@ -30,6 +30,9 @@
 		font-size:14px !important;
 		margin-top:-8px !important;
 	}
+    .text-grey{
+        color : #808080 !important;
+    }
 	</style>
 </head>
 
@@ -123,11 +126,11 @@
                              <span>2<sup>nd</sup> June - 4<sup>th</sup> June</span>
                              <span class="text-danger">Everyday 10:00 AM - 11:00 AM</span>
                              <hr>
-                             <span class="text-danger">Phishing</span>
-                             <span class="text-danger">Spoofing</span>
-                              <span class="text-danger">Hacking</span>
-                             <span class="text-danger">Password Attributes</span>
-                             <span class="text-danger">Public Hotspot</span>
+                             <span class="text-grey">Phishing</span>
+                             <span class="text-grey">Spoofing</span>
+                              <span class="text-grey">Hacking</span>
+                             <span class="text-grey">Password Attributes</span>
+                             <span class="text-grey">Public Hotspot</span>
                              
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
@@ -147,14 +150,14 @@
                              <span>4<sup>th</sup> June - 7<sup>th</sup> June</span>
                              <span class="text-danger">Everyday 10:00 AM - 11:00 AM</span>
                              <hr>
-                              <span class="text-danger">Google ClassRoom</span>
-                             <span class="text-danger">Google Form/Quiz</span>
-                              <span class="text-danger">Google Docs, Sheets, Slides</span>
-                             <span class="text-danger">Google Site, Blogger</span>
-                             <span class="text-danger">Google Translate</span>
+                              <span class="text-grey">Google ClassRoom</span>
+                             <span class="text-grey">Google Form/Quiz</span>
+                              <span class="text-grey">Google Docs, Sheets, Slides</span>
+                             <span class="text-grey">Google Site, Blogger</span>
+                             <span class="text-grey">Google Translate</span>
                              <span class="text-info">Keynote Speakers</span>
                             <span >Dr. Pratik Vanjara</span>
-                            <span >(Dr) Priyank Doshi</span>
+                            <span >Dr.  Priyank Doshi</span>
                             <hr>
                             <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
                         </div>
@@ -170,9 +173,9 @@
                             <span>2<sup>nd</sup> June - 6<sup>th</sup> June</span>
                              <span class="text-danger">Everyday 9:30 AM - 10:00 AM</span>
                              <hr>
-                              <span class="text-danger">Analyse The audience</span>
-                             <span class="text-danger">Where to start and Where to stop</span>
-                              <span class="text-danger">Hacking audience attention</span>
+                              <span class="text-grey">Analyse The audience</span>
+                             <span class="text-grey">Where to start and Where to stop</span>
+                              <span class="text-grey">Hacking audience attention</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                             <span>Nimit Ganatra</span>
@@ -194,12 +197,12 @@
                                 <span>1<sup>st</sup> June - 4<sup>th</sup> June</span>
                              <span class="text-danger">Everyday 12:00 PM - 1:00 PM</span>
                              <hr>
-                            <span class="text-danger">Installing Ubuntu on Virtual Box</span>
-                            <span class="text-danger">Install Apache server</span>
-                            <span class="text-danger">Install Configure PHP7.3</span>
-                            <span class="text-danger">Install Configure MySQL server</span>
-                            <span class="text-danger">Install Composer and other tool for web development</span>
-                             <span class="text-danger">Optimize server settings</span>
+                            <span class="text-grey">Installing Ubuntu on Virtual Box</span>
+                            <span class="text-grey">Install Apache server</span>
+                            <span class="text-grey">Install Configure PHP7.3</span>
+                            <span class="text-grey">Install Configure MySQL server</span>
+                            <span class="text-grey">Install Composer and other tool for web development</span>
+                             <span class="text-grey">Optimize server settings</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                             <span >Chirag Jagani</span>
@@ -237,7 +240,7 @@
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                             <span >Nehal Dave</span>
-                            <span >(Dr) Priti Sadaria</span>
+                            <span >Dr. Priti Sadaria</span>
                             <hr>
                             <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
                         </div>
@@ -274,7 +277,7 @@
                             <span class="text-danger">Everyday 11:00 AM - 12:00 PM</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
-                             <span >(Dr) Prakash Gujarati</span>
+                             <span >Dr.  Prakash Gujarati</span>
                              <span >Jitendra Timrai</span>
                             <hr>
                             <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
@@ -309,7 +312,7 @@
                              <span class="text-danger">10:00 AM - 11:00 AM</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
-                            <span >(Dr) Falguni Parsana</span>
+                            <span >Dr.  Falguni Parsana</span>
                             <hr>
                             <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
                         </div>
