@@ -120,12 +120,19 @@
                             <h4 class="price">How to protect mobile/laptop from cyber attacks?
                             </h4>
                             <hr>
-                             <span>1<sup>st</sup> June - 3<sup>rd</sup> June</span>
+                             <span>2<sup>nd</sup> June - 4<sup>th</sup> June</span>
                              <span class="text-warning">Everyday 10:00 AM - 11:00 AM</span>
                              <hr>
+                             <span class="text-warning">Phishing</span>
+                             <span class="text-warning">Spoofing</span>
+                              <span class="text-warning">Hacking</span>
+                             <span class="text-warning">Password Attributes</span>
+                             <span class="text-warning">Public Hotspot</span>
+                             
+                             <hr>
                              <span class="text-info">Keynote Speakers</span>
-                            <span >(Dr)Jignesh Hirapara</span>
-                            <span >(Dr)Amit Patel</span>
+                            <span >Dr. Jignesh Hirapara</span>
+                            <span >Dr. Amit Patel</span>
                             <hr>
                             <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank" target="_blank"><strong>Register</strong> </a>
                         </div>
