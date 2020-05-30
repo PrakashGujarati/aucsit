@@ -146,6 +146,7 @@
                             <hr>
                              <span>4<sup>th</sup> June - 7<sup>th</sup> June</span>
                              <span class="text-warning">Everyday 10:00 AM - 11:00 AM</span>
+
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                             <span >Dr. Pratik Vanjara</span>
@@ -159,11 +160,15 @@
                     <div class="tickets-table">
                         <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/basic_comm.jpg"></h2>
-                            <h3 class="price">Basics of Communication &nbsp;&nbsp;&nbsp;&nbsp;</h3>
+                            <h3 class="price">Basics Communication &nbsp;&nbsp;&nbsp;&nbsp;</h3>
 
                             <hr>
-                            <span>1<sup>st</sup> June - 4<sup>th</sup> June</span>
-                             <span class="text-warning">Everyday 10:00 AM - 10:30 AM</span>
+                            <span>2<sup>nd</sup> June - 6<sup>th</sup> June</span>
+                             <span class="text-warning">Everyday 9:30 AM - 10:00 AM</span>
+                             <hr>
+                              <span class="text-warning">Analyse The audience</span>
+                             <span class="text-warning">Where to start and Where to stop</span>
+                              <span class="text-warning">Hacking audience attention</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                             <span>Nimit Ganatra</span>
@@ -184,6 +189,12 @@
                             <hr>
                                 <span>1<sup>st</sup> June - 4<sup>th</sup> June</span>
                              <span class="text-warning">Everyday 12:00 PM - 1:00 PM</span>
+                             <hr>
+                            <span class="text-warning">Installing Ubuntu Desktop on Virtual Box</span>
+                            <span class="text-warning">Install & Configure Apache server</span>
+                            <span class="text-warning">Install & Configure PHP7.3</span>
+                            <span class="text-warning">Install & Configure MySQL server</span>
+                            <span class="text-warning">Install Composer and other tool for web development</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                             <span >Chirag Jagani</span>
