@@ -82,8 +82,8 @@
                         <div class="col-lg-12">
                             <span>June 02<sup>ND</sup> - 10<sup>TH</sup> 2020 </span>
                             <h1>Summer School for <br> Graduate Aspirants</h1>
-			<h2>12<sup>th</sup> Passed <br/>Students - 2020</h2>
-                            <h3 class="f-bold">Atmiya University, Rajkot</h3>
+			<h2>12<sup>th</sup> Passed Students - 2020</h2>
+                            <h3 class="f-bold" style="color: #fff !important;">Atmiya University, Rajkot</h3>
                         </div>
                     </div>
                 </div>
