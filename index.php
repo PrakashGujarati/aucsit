@@ -21,7 +21,6 @@
     <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
     <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="css/style.css" type="text/css">
-    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <script src="js/jquery-3.3.1.min.js"></script>
 	<style>
 	.name{
@@ -191,11 +190,11 @@
                                 <span>1<sup>st</sup> June - 4<sup>th</sup> June</span>
                              <span class="text-danger">Everyday 12:00 PM - 1:00 PM</span>
                              <hr>
-                            <span class="text-danger"><i class="fa fa-angle-double-right">Installing Ubuntu Desktop on Virtual Box</i></span>
-                            <span class="text-danger"><i class="fa fa-angle-double-right">Install Apache server</i></span>
-                            <span class="text-danger"><i class="fa fa-angle-double-right">Install Configure PHP7.3</i></span>
-                            <span class="text-danger"><i class="fa fa-angle-double-right">Install Configure MySQL server</i></span>
-                            <span class="text-danger"><i class="fa fa-angle-double-right">Install Composer and other tool for web development</i></span>
+                            <span class="text-danger">Installing Ubuntu on Virtual Box</span>
+                            <span class="text-danger">Install Apache server</span>
+                            <span class="text-danger">Install Configure PHP7.3</span>
+                            <span class="text-danger">Install Configure MySQL server</span>
+                            <span class="text-danger">Install Composer and other tool for web development</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                             <span >Chirag Jagani</span>
