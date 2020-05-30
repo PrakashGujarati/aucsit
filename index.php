@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>AU-CS&IT</title>
-	
+
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="img/favicon.ico" type="image/x-icon">
     <!-- Google Font -->
@@ -39,7 +39,7 @@
         <div class="loader"></div>
     </div>
 
-    <!-- Header Section Begin 
+    <!-- Header Section Begin
     <header class="header-section">
         <div class="container-fluid">
             <div class="row bg-overlay">
@@ -226,7 +226,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="tickets-table">
                         <div class="table-price text-center">
-                            <h2 class="table-title"><img src="img/ProShow-Gold.jpg"></h2>
+                            <h2 class="table-title"><img src="img/Proshow-Producer.jpg"></h2>
                             <h3 class="price">Effective Video Making using Proshow
                             </h3>
                             <hr>
@@ -234,7 +234,7 @@
                              <span class="text-warning">Everyday 12:00 PM - 1:00 PM</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
-                             <span>Disha Ganatra</span>                                   
+                             <span>Disha Ganatra</span>
                             <hr>
                             <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
                         </div>
@@ -270,6 +270,23 @@
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                             <span >Dr. Stavan Patel</span>
+                            <hr>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="tickets-table">
+                        <div class="table-price text-center">
+                            <h2 class="table-title"><img src="img/computer-world.jpg"></h2>
+                            <h3 class="price">How To Organize Your Google Drive
+                            </h3>
+                            <hr>
+                             <span>3<sup>rd</sup> June</span>
+                             <span class="text-warning">10:00 AM - 11:00 AM</span>
+                             <hr>
+                             <span class="text-info">Keynote Speakers</span>
+                            <span >(Dr) Falguni Parsana</span>
                             <hr>
                             <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
                         </div>
