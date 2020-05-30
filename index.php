@@ -279,7 +279,7 @@
                     <div class="tickets-table">
                         <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/computer-world.jpg"></h2>
-                            <h3 class="price">How To Organize Your Google Drive
+                            <h3 class="price">Digital File Organization
                             </h3>
                             <hr>
                              <span>3<sup>rd</sup> June</span>
@@ -308,7 +308,7 @@
     <script src="js/main.js"></script>
     <script type="text/javascript">
         $(".countdown-timer")
-        .countdown("2020/06/01, 10:00:00 AM", function(event) {
+        .countdown("2020/06/02, 10:00:00 AM", function(event) {
             var totalHours = event.offset.totalDays * 24 + event.offset.hours;
             $(this).html(event.strftime(totalHours + ' hr %M min %S sec'));
         });
