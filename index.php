@@ -156,6 +156,7 @@
                               <span class="text-grey">Google Docs, Sheets, Slides</span>
                              <span class="text-grey">Google Site, Blogger</span>
                              <span class="text-grey">Google Ads & pay</span>
+                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                               <hr>
                             <span >Dr. Pratik Vanjara</span>
@@ -169,7 +170,7 @@
                     <div class="tickets-table">
                         <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/basic_comm.jpg"></h2>
-                            <h3 class="price">Basics Communication &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
+                            <h3 class="price">Basics Communication &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
 
                             <hr>
                             <span>2<sup>nd</sup> June - 6<sup>th</sup> June</span>
@@ -178,6 +179,8 @@
                               <span class="text-grey">Analyse The audience</span>
                              <span class="text-grey">Where to start and Where to stop</span>
                               <span class="text-grey">Hacking audience attention</span>
+                               <span class="text-grey">&nbsp;</span>
+                                <span class="text-grey">&nbsp;</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                             <span>Nimit Ganatra</span>
