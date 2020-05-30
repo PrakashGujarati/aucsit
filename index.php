@@ -159,7 +159,7 @@
                              <span class="text-info">Keynote Speakers</span>
                               <hr>
                             <span >Dr. Pratik Vanjara</span>
-                            <span >Dr.  Priyank Doshi</span>
+                            <span >Dr. Priyank Doshi</span>
                             <hr>
                             <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
                         </div>
@@ -264,6 +264,11 @@
                             <h3 class="price">Effective Video Making using Proshow
                             </h3>
                             <hr>
+                            <span class="text-grey">Installation</span>
+                            <span class="text-grey">Presentation Creation Software</span>
+                            <span class="text-grey">Applying Effect</span>
+                            <span class="text-grey">Rendering</span>
+                            <hr>
                              <span>6<sup>th</sup> June - 8<sup>th</sup> June</span>
                              <span class="text-danger">Everyday 12:00 PM - 1:00 PM</span>
                              <hr>
@@ -280,6 +285,12 @@
                             <h2 class="table-title"><img src="img/photoshop.jpg"></h2>
                             <h3 class="price">Effective Photo editing using Photoshop
                             </h3>
+                            <hr>
+                             <span class="text-grey">Installation</span>
+                            <span class="text-grey">PhotoRetouch & Makeup</span>
+                            <span class="text-grey">Background Editing</span>
+                            <span class="text-grey">Passport Photo, card making</span>
+                             <span class="text-grey">Brochure, Banner</span>
                             <hr>
                             <span>1<sup>st</sup> June - 6<sup>th</sup> June</span>
                             <span class="text-danger">Everyday 11:00 AM - 12:00 PM</span>
@@ -322,6 +333,13 @@
                              <span class="text-info">Keynote Speakers</span>
                             <span >Dr.  Falguni Parsana</span>
                             <hr>
+                               <span class="text-grey">Coloring Folders</span>
+                            <span class="text-grey">Add Emojis to Folders</span>
+                            <span class="text-grey">Uploading, Moving & Sharing Files</span>
+                            <span class="text-grey">Passport Photo, card making</span>
+                             <span class="text-grey">Using Google keep tool</span>
+                              <span class="text-grey">Group Discussion</span>
+                             <hr>
                             <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
                         </div>
                     </div>
