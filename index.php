@@ -170,8 +170,8 @@
                     <div class="tickets-table">
                         <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/basic_comm.jpg"></h2>
-                            <h3 class="price">Basics Communication &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
-
+                            <h3 class="price">Basics Communication </h3>
+                            <br/>
                             <hr>
                             <span>2<sup>nd</sup> June - 6<sup>th</sup> June</span>
                              <span class="text-danger">Everyday 9:30 AM - 10:00 AM</span>
