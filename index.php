@@ -206,7 +206,7 @@
                             <span class="text-grey">Install Apache server</span>
                             <span class="text-grey">Install Configure PHP7.3</span>
                             <span class="text-grey">Install Configure MySQL server</span>
-                            <span class="text-grey">Install Composer and other tool for web development</span>
+                            <span class="text-grey">Install Other Usefull tools</span>
                              <span class="text-grey">Optimize server settings</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
