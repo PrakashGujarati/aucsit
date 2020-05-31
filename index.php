@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
@@ -30,9 +30,15 @@
 		font-size:14px !important;
 		margin-top:-8px !important;
 	}
-    .text-grey{
-        color : #808080 !important;
-    }
+  .text-grey{
+      color : #808080 !important;
+  }
+  a{
+    color: #f9fafb !important;
+  }
+  .btn-lg{
+    font-size: 40px;
+  }
 	</style>
 </head>
 
@@ -99,8 +105,10 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="event-name">
-                        <h2>First Event</h2>
-                        <h4>June 02, 2020 <span>Starting @ 10:00 AM</span></h4>
+                        <h2>
+                          <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" target="_blank" target="_blank" class="btn btn-lg btn-danger"><strong>Register Now</strong> </a>
+                         </h2>
+                        <h4>Starting From : June 02, 2020</h4>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -113,9 +121,16 @@
     </section>
     <!-- Event Counter End -->
 
+
     <!-- Tickets Price Area Begin -->
     <section class="tickets-table-price spad">
         <div class="container">
+           <div class="row">
+            <div class="col-lg-12">
+              <h2 class="text-grey">List of programs</h2>
+            </div>
+          </div>
+          <br/>
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="tickets-table">
@@ -137,8 +152,7 @@
                              <span class="text-info">Keynote Speakers</span>
                             <span >Dr. Jignesh Hirapara</span>
                             <span >Dr. Amit Patel</span>
-                            <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank" target="_blank"><strong>Register</strong> </a>
+                            
                         </div>
                     </div>
                 </div>
@@ -161,8 +175,6 @@
                             
                             <span >Dr. Pratik Vanjara</span>
                             <span >Dr. Priyank Doshi</span>
-                            <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
                         </div>
                     </div>
                 </div>
@@ -185,8 +197,7 @@
                              <span class="text-info">Keynote Speakers</span>
                             <span>Nimit Ganatra</span>
                             <span>&nbsp;</span>
-                            <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
+                            
                         </div>
                     </div>
                 </div>
@@ -211,8 +222,7 @@
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                             <span >Chirag Jagani</span>
-                            <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
+                          
                         </div>
                     </div>
                 </div>
@@ -236,8 +246,8 @@
                             
                              <span class="text-info">Keynote Speakers</span>
                             <span >Chirag Jagani</span>
-                            <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
+                            <span >&nbsp;</span>
+                          
                         </div>
                     </div>
                 </div>
@@ -261,8 +271,7 @@
                              <span class="text-info">Keynote Speakers</span>
                             <span >Nehal Dave</span>
                             <span >Dr. Priti Sadaria</span>
-                            <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
+                           
                         </div>
                     </div>
                 </div>
@@ -286,8 +295,7 @@
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                              <span>Disha Ganatra</span>
-                            <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
+                           
                         </div>
                     </div>
                 </div>
@@ -310,8 +318,7 @@
                              <span class="text-info">Keynote Speakers</span>
                              <span >Dr.  Prakash Gujarati</span>
                              <span >Jitendra Timrai</span>
-                            <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
+                          
                         </div>
                     </div>
                 </div>
@@ -327,8 +334,7 @@
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                             <span >Dr. Stavan Patel</span>
-                            <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
+                         
                         </div>
                     </div>
                 </div>
@@ -351,8 +357,55 @@
                           
                              <span class="text-grey">Using Google keep tool</span>
                               <span class="text-grey">Group Discussion</span>
+                           
+                        </div>
+                    </div>
+                </div>
+
+                 <div class="col-lg-4 col-md-6">
+                    <div class="tickets-table">
+                        <div class="table-price text-center">
+                            <h2 class="table-title"><img src="img/digital-file.jpg"></h2>
+                            <h3 class="price">Digital File Organization
+                            </h3>
+                            <hr>
+                             <span>3<sup>rd</sup> June</span>
+                             <span class="text-danger">10:00 AM - 11:00 AM</span>
                              <hr>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" class="btn btn-success" target="_blank"><strong>Register</strong> </a>
+                             <span class="text-info">Keynote Speakers</span>
+                            <span >Dr.  Falguni Parsana</span>
+                            <hr>
+                               <span class="text-grey">Coloring Folders</span>
+                            <span class="text-grey">Add Emojis to Folders</span>
+                            <span class="text-grey">Uploading, Moving & Sharing Files</span>
+                          
+                             <span class="text-grey">Using Google keep tool</span>
+                              <span class="text-grey">Group Discussion</span>
+                           
+                        </div>
+                    </div>
+                </div>
+
+                 <div class="col-lg-4 col-md-6">
+                    <div class="tickets-table">
+                        <div class="table-price text-center">
+                            <h2 class="table-title"><img src="img/digital-file.jpg"></h2>
+                            <h3 class="price">Digital File Organization
+                            </h3>
+                            <hr>
+                             <span>3<sup>rd</sup> June</span>
+                             <span class="text-danger">10:00 AM - 11:00 AM</span>
+                             <hr>
+                             <span class="text-info">Keynote Speakers</span>
+                            <span >Dr.  Falguni Parsana</span>
+                            <hr>
+                               <span class="text-grey">Coloring Folders</span>
+                            <span class="text-grey">Add Emojis to Folders</span>
+                            <span class="text-grey">Uploading, Moving & Sharing Files</span>
+                          
+                             <span class="text-grey">Using Google keep tool</span>
+                              <span class="text-grey">Group Discussion</span>
+                           
                         </div>
                     </div>
                 </div>
