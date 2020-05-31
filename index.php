@@ -116,7 +116,7 @@
                 <div class="col-lg-6">
                     <div class="event-name">
                         <h2> <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" target="_blank" target="_blank" class="btn btn-lg btn-danger"><strong>Register Now</strong> </a></h2>
-                        <h4>Starting From : June 02, 2020</h4>
+                        <h4 style="font-size: 22px !important;">Starting From : June 02, 2020</h4>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -166,7 +166,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="tickets-table">
                         <div class="table-price text-center">
-                            <h2 class="table-title"><img src="img/googletools.jpg"></h2>
+                            <h2 class="table-title"><img src="img/googletools.png"></h2>
                             <h4 class="price">Google Tools & Techniques - Freeware</h4>
                             <hr>
                              <span>4<sup>th</sup> June - 7<sup>th</sup> June</span>
@@ -215,7 +215,7 @@
                     <div class="tickets-table">
                         <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/vbox-ubuntu.png"></h2>
-                            <h3 class="price">How to configure linux server for modern web development</h3>
+                            <h4 class="price">How to configure linux server for modern web development</h4>
                             <hr>
                                 <span>1<sup>st</sup> June - 4<sup>th</sup> June</span>
                              <span class="text-danger">Everyday 12:00 PM - 1:00 PM</span>
@@ -237,8 +237,8 @@
                     <div class="tickets-table">
                         <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/freelancer.png"></h2>
-                            <h3 class="price">How to be a successful freelancer
-                            </h3>
+                            <h4 class="price">How to be a successful freelancer
+                            </h4>
                             <hr>
                              <span>6<sup>th</sup> June</span>
                              <span class="text-danger">12:00 PM - 2:00 PM</span>
@@ -262,8 +262,8 @@
                     <div class="tickets-table">
                         <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/SCRATCH.jpeg"></h2>
-                            <h3 class="price">Logic Building using SCRATCH Tool
-                            </h3>
+                            <h4 class="price">Logic Building using SCRATCH Tool
+                            </h4>
                             <hr>
                              <span>4<sup>th</sup> June - 8<sup>st</sup> June</span>
                              <span class="text-danger">Everyday 09:00 AM - 09:30 AM</span>
@@ -283,14 +283,14 @@
                     </div>
                 </div>
             </div>
-            <br/> <br/>
+            <br/>
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="tickets-table">
                         <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/Proshow-Producer.jpg"></h2>
-                            <h3 class="price">Effective Video Making using Proshow
-                            </h3>
+                            <h4 class="price">Effective Video Making using Proshow
+                            </h4>
                             <hr>
                             <span class="text-grey">Installation</span>
                             <span class="text-grey">Presentation Creation Software</span>
@@ -302,6 +302,7 @@
                              <hr>
                              <span class="text-info">Keynote Speaker</span>
                              <span>Disha Ganatra</span>
+                             <br>
                            
                         </div>
                     </div>
@@ -310,14 +311,13 @@
                     <div class="tickets-table">
                         <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/photoshop.jpg"></h2>
-                            <h3 class="price">Effective Photo editing using Photoshop
-                            </h3>
+                            <h4 class="price">Effective Photo editing using Photoshop
+                            </h4>
                             <hr>
                              <span class="text-grey">Installation</span>
                             <span class="text-grey">PhotoRetouch & Makeup</span>
-                            <span class="text-grey">Background Editing</span>
-                            <span class="text-grey">Passport Photo, card making</span>
-                             <span class="text-grey">Brochure, Banner</span>
+                            <span class="text-grey">Background Change, PassportPhoto</span>
+                            <span class="text-grey">Card, Brochure, Banner</span>
                             <hr>
                             <span>1<sup>st</sup> June - 6<sup>th</sup> June</span>
                             <span class="text-danger">Everyday 11:00 AM - 12:00 PM</span>
@@ -333,8 +333,8 @@
                     <div class="tickets-table">
                         <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/digital-file.jpg"></h2>
-                            <h3 class="price">Digital File Organization
-                            </h3>
+                            <h4 class="price">Digital File Organization
+                            </h4>
                             <hr>
                              <span>8<sup>th</sup> June</span>
                              <span class="text-danger">10:00 AM - 11:00 AM</span>
@@ -347,16 +347,20 @@
                             <span class="text-grey">Uploading, Moving & Sharing Files</span>                          
                              <span class="text-grey">Using Google keep tool</span>
                               <span class="text-grey">Group Discussion</span>
+                              <br>
                            
                         </div>
                     </div>
                 </div>
+            </div>
+                <br>
+                <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="tickets-table">
                         <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/computer-world.jpg"></h2>
-                            <h3 class="price">Why Computer as a Career?
-                            </h3>
+                            <h4 class="price">Why Computer as a Career?
+                            </h4>
                             <hr>
                              <span>8<sup>th</sup> June</span>
                              <span class="text-danger">11:00 AM - 12:00 PM</span>
@@ -371,8 +375,8 @@
                     <div class="tickets-table">
                         <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/search.jpg"></h2>
-                            <h3 class="price">Google Searching Techniques
-                            </h3>
+                            <h4 class="price">Google Searching Techniques
+                            </h4>
                             <hr>
                              <span>9<sup>th</sup> June</span>
                              <span class="text-danger">10:00 AM - 11:00 AM</span>
@@ -393,8 +397,8 @@
                     <div class="tickets-table">
                         <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/ai.jpg"></h2>
-                            <h3 class="price">Introduction of Artificial Intelligence
-                            </h3>
+                            <h4 class="price">Introduction of Artificial Intelligence
+                            </h4>
                             <hr>
                              <span>9<sup>th</sup> June</span>
                              <span class="text-danger">11:00 AM - 12:00 AM</span>
@@ -407,6 +411,7 @@
                             <span class="text-grey">Applications of it</span>                          
                         </div>
                     </div>
+                </div>
                 </div>
             </div>
         </div>
