@@ -261,17 +261,18 @@
                             <h4 class="price">Digital File Organization
                             </h4>
                             <hr>
-                             <span>8<sup>th</sup> June</span>
-                             <span class="text-danger">10:00 AM - 11:00 AM</span>
-                             <hr>
-                             <span class="text-info">Keynote Speaker</span>
-                            <span >Dr. Falguni Parsana</span>
-                            <hr>
                                <span class="text-grey">Coloring Folders</span>
                             <span class="text-grey">Add Emojis to Folders</span>
                             <span class="text-grey">Uploading, Moving & Sharing Files</span>                          
                              <span class="text-grey">Using Google keep tool</span>
                               <span class="text-grey">Group Discussion</span>
+                            <hr>                            
+                             <span>8<sup>th</sup> June</span>
+                             <span class="text-danger">10:00 AM - 11:00 AM</span>
+                             <hr>
+                             <span class="text-info">Keynote Speaker</span>
+                            <span >Dr. Falguni Parsana</span>
+                           
                               <br>
                            
                         </div>
@@ -334,7 +335,7 @@
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                              <span >Shital Patel</span>
-                             <span >Abhishik Teraiya</span>
+                             <span >Abhishek Teraiya</span>
                                                
                         </div>
                     </div>
