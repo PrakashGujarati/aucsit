@@ -89,14 +89,14 @@
                             <img src="img/aulogo_white.png" style="max-width: 100%;" />
                         </div>
                         <div class="col-md-9">
-                        <h4 style="color:white;margin-top:30px;">Organises</h4>
+                        <h4 style="color:white;margin-top:30px;">Organized by</h4>
                         <h2> Department of Computer Science & IT</span></h1>
                         <h4 style="color:white;">Atmiya University, Rajkot</h4>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-12">                            
-                            <span>June 02<sup>ND</sup> - 10<sup>TH</sup> 2020 </span>
+                            <h2>June 02<sup>nd</sup> - 10<sup>th</sup> 2020 </h2>
                             <h1>Summer School for <br> Graduate Aspirants</h1>
                             <h2>12<sup>th</sup> Passed Students - 2020</h2>             
                            
@@ -115,15 +115,12 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="event-name">
-                        <h2>
-                          <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" target="_blank" target="_blank" class="btn btn-lg btn-danger"><strong>Register Now</strong> </a>
-                         </h2>
+                        <h2> <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5Tw3Jw-xzJ6ej5ImRausuFR3vBQCrJbQwvq3TA4HRuAu2og/viewform?usp=sf_link" target="_blank" target="_blank" class="btn btn-lg btn-danger"><strong>Register Now</strong> </a></h2>
                         <h4>Starting From : June 02, 2020</h4>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="countdown-timer" id="countdown">
-
                     </div>
                 </div>
             </div>
@@ -137,7 +134,7 @@
         <div class="container">
            <div class="row">
             <div class="col-lg-12">
-              <h2 class="text-grey">List of programs</h2>
+              <h2 class="text-grey">List of Programs</h2>
             </div>
           </div>
           <br/>
@@ -192,7 +189,7 @@
                     <div class="tickets-table">
                         <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/basic_comm.jpg"></h2>
-                            <h3 class="price">Basics Communication </h3>
+                            <h4 class="price">Effective Communication </h4>
                             <br/>
                             <hr>
                             <span>2<sup>nd</sup> June - 6<sup>th</sup> June</span>
@@ -204,7 +201,7 @@
                                <span class="text-grey">&nbsp;</span>
                                 <span class="text-grey">&nbsp;</span>
                              <hr>
-                             <span class="text-info">Keynote Speakers</span>
+                             <span class="text-info">Keynote Speaker</span>
                             <span>Nimit Ganatra</span>
                             <span>&nbsp;</span>
                             
@@ -230,7 +227,7 @@
                             <span class="text-grey">Install Other Usefull tools</span>
                              <span class="text-grey">Optimize server settings</span>
                              <hr>
-                             <span class="text-info">Keynote Speakers</span>
+                             <span class="text-info">Keynote Speaker</span>
                             <span >Chirag Jagani</span>
                           
                         </div>
@@ -254,7 +251,7 @@
                              <span class="text-grey">Be open—and transparent</span>
                              <hr>
                             
-                             <span class="text-info">Keynote Speakers</span>
+                             <span class="text-info">Keynote Speaker</span>
                             <span >Chirag Jagani</span>
                             <span >&nbsp;</span>
                           
@@ -303,7 +300,7 @@
                              <span>6<sup>th</sup> June - 8<sup>th</sup> June</span>
                              <span class="text-danger">Everyday 12:00 PM - 1:00 PM</span>
                              <hr>
-                             <span class="text-info">Keynote Speakers</span>
+                             <span class="text-info">Keynote Speaker</span>
                              <span>Disha Ganatra</span>
                            
                         </div>
@@ -326,7 +323,7 @@
                             <span class="text-danger">Everyday 11:00 AM - 12:00 PM</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
-                             <span >Dr.  Prakash Gujarati</span>
+                             <span >Dr. Prakash Gujarati</span>
                              <span >Jitendra Timrai</span>
                           
                         </div>
@@ -342,8 +339,8 @@
                              <span>8<sup>th</sup> June</span>
                              <span class="text-danger">10:00 AM - 11:00 AM</span>
                              <hr>
-                             <span class="text-info">Keynote Speakers</span>
-                            <span >Dr.  Falguni Parsana</span>
+                             <span class="text-info">Keynote Speaker</span>
+                            <span >Dr. Falguni Parsana</span>
                             <hr>
                                <span class="text-grey">Coloring Folders</span>
                             <span class="text-grey">Add Emojis to Folders</span>
@@ -364,7 +361,7 @@
                              <span>8<sup>th</sup> June</span>
                              <span class="text-danger">11:00 AM - 12:00 PM</span>
                              <hr>
-                             <span class="text-info">Keynote Speakers</span>
+                             <span class="text-info">Keynote Speaker</span>
                             <span >Dr. Stavan Patel</span>
                          
                         </div>
@@ -381,12 +378,13 @@
                              <span class="text-danger">10:00 AM - 11:00 AM</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
-                            <span >Shital Patel</span>
+                             <span >Shital Patel</span>
+                             <span >Abhishik Teraiya</span>
                             <hr>                            
                             <span class="text-grey">Use the tabs</span>
                             <span class="text-grey">Find sites</span>                          
-                            <span class="text-grey">Find Specific File</span>
-                            <span class="text-grey">Using Google keep tool</span>                    
+                            <span class="text-grey">Find Format Specific File</span> 
+                            <span class="text-grey">Searching Tic-Tacs</span>                            
                         </div>
                     </div>
                 </div>
@@ -401,7 +399,7 @@
                              <span>9<sup>th</sup> June</span>
                              <span class="text-danger">11:00 AM - 12:00 AM</span>
                              <hr>
-                             <span class="text-info">Keynote Speakers</span>
+                             <span class="text-info">Keynote Speaker</span>
                             <span >Dr. Ripal Ranpara</span>
                             <hr>
                                <span class="text-grey">What is AI ?</span>
