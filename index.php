@@ -147,8 +147,8 @@
                             <h4 class="price">Effective Communication </h4>
                             <br/>
                             <hr>
-                            <span>2<sup>nd</sup> June - 6<sup>th</sup> June</span>
-                            <span class="text-danger">Everyday 9:30 AM - 10:00 AM</span>
+                            <span>2<sup>nd</sup> June - 5<sup>th</sup> June</span>
+                            <span class="text-danger">Everyday 9:00 AM - 10:00 AM</span>
                             <hr>
                              <span class="text-grey">Analyse The audience</span>
                              <span class="text-grey">Where to start and Where to stop</span>
@@ -217,8 +217,8 @@
                             <h4 class="price">Logic Building using SCRATCH Tool
                             </h4>
                             <hr>
-                             <span>4<sup>th</sup> June - 8<sup>st</sup> June</span>
-                             <span class="text-danger">Everyday 09:00 AM - 09:30 AM</span>
+                             <span>2<sup>th</sup> June - 4<sup>th</sup> June</span>
+                             <span class="text-danger">Everyday 12:00 PM - 01:00 PM</span>
                              <hr>
                              <span class="text-grey">Installation</span>
                             <span class="text-grey">Basic Arithmetic Operations</span>
@@ -238,8 +238,8 @@
                             <h2 class="table-title"><img src="img/googletools.png"></h2>
                             <h4 class="price">Google Tools & Techniques - Freeware</h4>
                             <hr>
-                             <span>4<sup>th</sup> June - 7<sup>th</sup> June</span>
-                             <span class="text-danger">Everyday 10:00 AM - 11:00 AM</span>
+                             <span>5<sup>th</sup> June - 8<sup>th</sup> June</span>
+                             <span class="text-danger">Everyday 12:00 PM - 1:00 AM</span>
                              <hr>
                               <span class="text-grey">Google ClassRoom</span>
                              <span class="text-grey">Google Form/Quiz</span>
@@ -290,7 +290,7 @@
                             </h4>
                            <hr>
                              <span>6<sup>th</sup> June - 8<sup>th</sup> June</span>
-                             <span class="text-danger">Everyday 12:00 PM - 1:00 PM</span>
+                             <span class="text-danger">Everyday 09:00 AM - 10:00 PM</span>
                              <hr>
                             <span class="text-grey">Installation</span>
                             <span class="text-grey">Presentation Creation Software</span>
@@ -302,31 +302,15 @@
                              <br>                           
                         </div>
                     </div>
-                </div>                            
+                </div>        
                 <div class="col-lg-4 col-md-6">
-                    <div class="tickets-table">
-                        <div class="table-price text-center">
-                            <h2 class="table-title"><img src="img/computer-world.jpg"></h2>
-                            <h4 class="price">Why Computer as a Career?
-                            </h4>
-                            <hr>
-                             <span>8<sup>th</sup> June</span>
-                             <span class="text-danger">11:00 AM - 12:00 PM</span>
-                             <hr>
-                             <span class="text-info">Keynote Speaker</span>
-                            <span >Dr. Stavan Patel</span>
-                         
-                        </div>
-                    </div>
-                </div>
-                 <div class="col-lg-4 col-md-6">
                     <div class="tickets-table">
                         <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/search.jpg"></h2>
                             <h4 class="price">Google Searching Techniques
                             </h4>
                           <hr>
-                             <span>9<sup>th</sup> June</span>
+                             <span>6<sup>th</sup> June</span>
                              <span class="text-danger">10:00 AM - 11:00 AM</span>
                              <hr>                            
                             <span class="text-grey">Use the tabs</span>
@@ -340,32 +324,26 @@
                                                
                         </div>
                     </div>
-                </div>                
-            </div>  
-            <br/>
-            <div class="row">
+                </div>                       
                 <div class="col-lg-4 col-md-6">
                     <div class="tickets-table">
                         <div class="table-price text-center">
-                            <h2 class="table-title"><img src="img/fundacom.jpg"></h2>
-                            <h4 class="price">Fundamental of Digital Computers
+                            <h2 class="table-title"><img src="img/computer-world.jpg"></h2>
+                            <h4 class="price">Why Computer as a Career?
                             </h4>
-                          <hr>
-                             <span>09<sup>th</sup> June</span>
-                             <span class="text-danger">One Day 11:00 AM - 12:00 PM</span>
-                             <hr>
-                            <span class="text-grey">Evolution of computer</span>
-                            <span class="text-grey">Purpose of first computer</span>
-                            <span class="text-grey">Computer Language</span>
-                            <span class="text-grey">Data transmission, Operation</span>                                           
                             <hr>
+                             <span>8<sup>th</sup> June</span>
+                             <span class="text-danger">11:00 AM - 12:00 PM</span>
+                             <hr>
                              <span class="text-info">Keynote Speaker</span>
-                             <span>(Dr) Divyesh Gohel</span>
-                             <span>(Dr) Haresh Khachariya</span>
-                             <br>                           
+                            <span >Dr. Stavan Patel</span>                         
                         </div>
                     </div>
-                </div>                            
+                </div>                              
+            </div>  
+            <br/>
+            <div class="row">
+                                         
                 <div class="col-lg-4 col-md-6">
                     <div class="tickets-table">
                         <div class="table-price text-center">
@@ -373,8 +351,8 @@
                             <h4 class="price">Make your Own Website just in Hour
                             </h4>
                            <hr>
-                             <span>10<sup>th</sup> June</span>
-                             <span class="text-danger">10:00 AM - 12:00 PM</span>
+                             <span>07<sup>th</sup> June</span>
+                             <span class="text-danger">10:00 AM - 11:00 AM</span>
                              <hr>
                             <span class="text-grey">What is Website ?</span>
                             <span class="text-grey">Create a Website</span>
@@ -394,7 +372,7 @@
                             <h4 class="price">Let's make an iOS Application using MAC
                             </h4>
                            <hr>
-                             <span>10<sup>th</sup> June</span>
+                             <span>07<sup>th</sup> June</span>
                              <span class="text-danger">11:00 AM - 12:00 PM</span>
                              <hr>
                             <span class="text-grey">What is MAC OS ?</span>
@@ -402,8 +380,30 @@
                             <span class="text-grey">Design iOS Application</span>
                             <span class="text-grey">Run in iOS Devices</span>            
                             <hr>
-                             <span class="text-info">Keynote Speakers</span>
+                             <span class="text-info">Keynote Speaker</span>
                             <span >(Dr) Prakash Gujarati</span>                            
+                        </div>
+                    </div>
+                </div>  
+                <div class="col-lg-4 col-md-6">
+                    <div class="tickets-table">
+                        <div class="table-price text-center">
+                            <h2 class="table-title"><img src="img/fundacom.jpg"></h2>
+                            <h4 class="price">Fundamental of Digital Computers
+                            </h4>
+                          <hr>
+                             <span>09<sup>th</sup> June</span>
+                             <span class="text-danger">One Day 11:00 AM - 12:00 PM</span>
+                             <hr>
+                            <span class="text-grey">Evolution of computer</span>
+                            <span class="text-grey">Purpose of first computer</span>
+                            <span class="text-grey">Computer Language</span>
+                            <span class="text-grey">Data transmission, Operation</span>                                           
+                            <hr>
+                             <span class="text-info">Keynote Speakers</span>
+                             <span>(Dr) Divyesh Gohel</span>
+                             <span>(Dr) Haresh Khachariya</span>
+                             <br>                           
                         </div>
                     </div>
                 </div>           
