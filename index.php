@@ -179,8 +179,8 @@
                              <span class="text-grey">Public Hotspot</span>                             
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
-                            <span >Dr. Jignesh Hirapara</span>
-                            <span >Dr. Amit Patel</span>
+                            <span >(Dr) Jignesh Hirapara</span>
+                            <span >(Dr) Amit Patel</span>
                             
                         </div>
                     </div>
@@ -191,17 +191,17 @@
                             <h2 class="table-title"><img src="img/photoshop.jpg"></h2>
                             <h4 class="price">Effective Photo editing using Photoshop
                             </h4>
+                           <hr>
+                            <span>2<sup>nd</sup> June - 6<sup>th</sup> June</span>
+                            <span class="text-danger">Everyday 11:00 AM - 12:00 PM</span>
                             <hr>
                              <span class="text-grey">Installation</span>
                             <span class="text-grey">PhotoRetouch & Makeup</span>
                             <span class="text-grey">Background Change, PassportPhoto</span>
                             <span class="text-grey">Card, Brochure, Banner</span>
                             <hr>
-                            <span>2<sup>nd</sup> June - 6<sup>th</sup> June</span>
-                            <span class="text-danger">Everyday 11:00 AM - 12:00 PM</span>
-                             <hr>
                              <span class="text-info">Keynote Speakers</span>
-                             <span >Dr. Prakash Gujarati</span>
+                             <span >(Dr) Prakash Gujarati</span>
                              <span >Jitendra Timrai</span>
                           
                         </div>
@@ -228,7 +228,7 @@
                             <hr>
                             <span class="text-info">Keynote Speakers</span>
                             <span >Nehal Dave</span>
-                            <span >Dr. Priti Sadaria</span>                           
+                            <span >(Dr) Priti Sadaria</span>                           
                         </div>
                     </div>
                 </div>
@@ -250,7 +250,7 @@
                              <span class="text-info">Keynote Speakers</span>
                             
                             <span >Dr. Pratik Vanjara</span>
-                            <span >Dr. Priyank Doshi</span>
+                            <span >(Dr) Priyank Doshi</span>
                         </div>
                     </div>
                 </div>
@@ -260,18 +260,19 @@
                             <h2 class="table-title"><img src="img/digital-file.jpg"></h2>
                             <h4 class="price">Digital File Organization
                             </h4>
-                            <hr>
+                            <br>
+                            <hr>                         
+                             <span>8<sup>th</sup> June</span>
+                             <span class="text-danger">10:00 AM - 11:00 AM</span>
+                             <hr>
                                <span class="text-grey">Coloring Folders</span>
                             <span class="text-grey">Add Emojis to Folders</span>
                             <span class="text-grey">Uploading, Moving & Sharing Files</span>                          
                              <span class="text-grey">Using Google keep tool</span>
                               <span class="text-grey">Group Discussion</span>
-                            <hr>                            
-                             <span>8<sup>th</sup> June</span>
-                             <span class="text-danger">10:00 AM - 11:00 AM</span>
-                             <hr>
+                            <hr>   
                              <span class="text-info">Keynote Speaker</span>
-                            <span >Dr. Falguni Parsana</span>
+                            <span >(Dr) Falguni Parsana</span>
                            
                               <br>
                            
@@ -287,15 +288,15 @@
                             <h2 class="table-title"><img src="img/Proshow-Producer.jpg"></h2>
                             <h4 class="price">Effective Video Making using Proshow
                             </h4>
-                            <hr>
+                           <hr>
+                             <span>6<sup>th</sup> June - 8<sup>th</sup> June</span>
+                             <span class="text-danger">Everyday 12:00 PM - 1:00 PM</span>
+                             <hr>
                             <span class="text-grey">Installation</span>
                             <span class="text-grey">Presentation Creation Software</span>
                             <span class="text-grey">Applying Effect</span>
                             <span class="text-grey">Rendering</span>
                             <hr>
-                             <span>6<sup>th</sup> June - 8<sup>th</sup> June</span>
-                             <span class="text-danger">Everyday 12:00 PM - 1:00 PM</span>
-                             <hr>
                              <span class="text-info">Keynote Speaker</span>
                              <span>Disha Ganatra</span>
                              <br>                           
@@ -324,15 +325,15 @@
                             <h2 class="table-title"><img src="img/search.jpg"></h2>
                             <h4 class="price">Google Searching Techniques
                             </h4>
-                            <hr>                            
+                          <hr>
+                             <span>9<sup>th</sup> June</span>
+                             <span class="text-danger">10:00 AM - 11:00 AM</span>
+                             <hr>                            
                             <span class="text-grey">Use the tabs</span>
                             <span class="text-grey">Find sites</span>                          
                             <span class="text-grey">Find Format Specific File</span> 
                             <span class="text-grey">Searching Tic-Tacs</span>        
                             <hr>
-                             <span>9<sup>th</sup> June</span>
-                             <span class="text-danger">10:00 AM - 11:00 AM</span>
-                             <hr>
                              <span class="text-info">Keynote Speakers</span>
                              <span >Shital Patel</span>
                              <span >Abhishek Teraiya</span>
@@ -349,18 +350,18 @@
                             <h2 class="table-title"><img src="img/fundacom.jpg"></h2>
                             <h4 class="price">Fundamental of Digital Computers
                             </h4>
-                            <hr>
+                          <hr>
+                             <span>09<sup>th</sup> June</span>
+                             <span class="text-danger">One Day 11:00 AM - 12:00 PM</span>
+                             <hr>
                             <span class="text-grey">Evolution of computer</span>
                             <span class="text-grey">Purpose of first computer</span>
                             <span class="text-grey">Computer Language</span>
                             <span class="text-grey">Data transmission, Operation</span>                                           
                             <hr>
-                             <span>09<sup>th</sup> June</span>
-                             <span class="text-danger">One Day 11:00 AM - 12:00 PM</span>
-                             <hr>
                              <span class="text-info">Keynote Speaker</span>
-                             <span>Dr. Divyesh Gohel</span>
-                             <span>Dr. Haresh Khachariya</span>
+                             <span>(Dr) Divyesh Gohel</span>
+                             <span>(Dr) Haresh Khachariya</span>
                              <br>                           
                         </div>
                     </div>
@@ -371,18 +372,18 @@
                             <h2 class="table-title"><img src="img/wix.jpg"></h2>
                             <h4 class="price">Make your Own Website just in Hour
                             </h4>
-                            <hr>
+                           <hr>
+                             <span>10<sup>th</sup> June</span>
+                             <span class="text-danger">10:00 AM - 12:00 PM</span>
+                             <hr>
                             <span class="text-grey">What is Website ?</span>
                             <span class="text-grey">Create a Website</span>
                             <span class="text-grey">Responsive Website</span>
                             <span class="text-grey">Design Flexibility</span>                                        
                             <hr>
-                             <span>10<sup>th</sup> June</span>
-                             <span class="text-danger">10:00 AM - 12:00 PM</span>
-                             <hr>
                              <span class="text-info">Keynote Speakers</span>
-                            <span >Dr. Divyesh Gohel</span>
-                            <span >Dr. Prakash Gujarati</span>                         
+                            <span >(Dr) Divyesh Gohel</span>
+                            <span >(Dr) Prakash Gujarati</span>                         
                         </div>
                     </div>
                 </div>      
@@ -392,17 +393,17 @@
                             <h2 class="table-title"><img src="img/ios.jpg"></h2>
                             <h4 class="price">Let's make an iOS Application using MAC
                             </h4>
-                            <hr>
+                           <hr>
+                             <span>10<sup>th</sup> June</span>
+                             <span class="text-danger">11:00 AM - 12:00 PM</span>
+                             <hr>
                             <span class="text-grey">What is MAC OS ?</span>
                             <span class="text-grey">What is UI/UX ?</span>
                             <span class="text-grey">Design iOS Application</span>
                             <span class="text-grey">Run in iOS Devices</span>            
                             <hr>
-                             <span>10<sup>th</sup> June</span>
-                             <span class="text-danger">11:00 AM - 12:00 PM</span>
-                             <hr>
                              <span class="text-info">Keynote Speakers</span>
-                            <span >Dr. Prakash Gujarati</span>                            
+                            <span >(Dr) Prakash Gujarati</span>                            
                         </div>
                     </div>
                 </div>           
