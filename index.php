@@ -85,11 +85,21 @@
             <div class="single-hero-item set-bg" data-setbg="img/slider/bg-2.jpg">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-12">
+                        <div class="col-md-3">
+                            <img src="img/aulogo_white.png" style="max-width: 100%;" />
+                        </div>
+                        <div class="col-md-9">
+                        <h4 style="color:white;margin-top:30px;">Organises</h4>
+                        <h2> Department of Computer Science & IT</span></h1>
+                        <h4 style="color:white;">Atmiya University, Rajkot</h4>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12">                            
                             <span>June 02<sup>ND</sup> - 10<sup>TH</sup> 2020 </span>
                             <h1>Summer School for <br> Graduate Aspirants</h1>
-			<h2>12<sup>th</sup> Passed Students - 2020</h2>
-                            <h3 class="f-bold" style="color: #fff !important;">Atmiya University, Rajkot</h3>
+                            <h2>12<sup>th</sup> Passed Students - 2020</h2>             
+                           
                         </div>
                     </div>
                 </div>
