@@ -217,7 +217,7 @@
                             <h2 class="table-title"><img src="img/vbox-ubuntu.png"></h2>
                             <h4 class="price">How to configure linux server for modern web development</h4>
                             <hr>
-                                <span>1<sup>st</sup> June - 4<sup>th</sup> June</span>
+                                <span>2<sup>nd</sup> June - 5<sup>th</sup> June</span>
                              <span class="text-danger">Everyday 12:00 PM - 1:00 PM</span>
                              <hr>
                             <span class="text-grey">Installing Ubuntu on Virtual Box</span>
@@ -319,7 +319,7 @@
                             <span class="text-grey">Background Change, PassportPhoto</span>
                             <span class="text-grey">Card, Brochure, Banner</span>
                             <hr>
-                            <span>1<sup>st</sup> June - 6<sup>th</sup> June</span>
+                            <span>2<sup>nd</sup> June - 6<sup>th</sup> June</span>
                             <span class="text-danger">Everyday 11:00 AM - 12:00 PM</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
