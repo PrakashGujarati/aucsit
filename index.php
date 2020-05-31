@@ -82,7 +82,7 @@
     <!-- Hero Area Begin -->
     <div class="hero-section">
         <div class="hero-items owl-carousel">
-            <div class="single-hero-item set-bg" data-setbg="img/slider/bg-1.jpg">
+            <div class="single-hero-item set-bg" data-setbg="img/slider/bg-2.jpg">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
@@ -325,12 +325,34 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="tickets-table">
                         <div class="table-price text-center">
+                            <h2 class="table-title"><img src="img/digital-file.jpg"></h2>
+                            <h3 class="price">Digital File Organization
+                            </h3>
+                            <hr>
+                             <span>8<sup>th</sup> June</span>
+                             <span class="text-danger">10:00 AM - 11:00 AM</span>
+                             <hr>
+                             <span class="text-info">Keynote Speakers</span>
+                            <span >Dr.  Falguni Parsana</span>
+                            <hr>
+                               <span class="text-grey">Coloring Folders</span>
+                            <span class="text-grey">Add Emojis to Folders</span>
+                            <span class="text-grey">Uploading, Moving & Sharing Files</span>                          
+                             <span class="text-grey">Using Google keep tool</span>
+                              <span class="text-grey">Group Discussion</span>
+                           
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="tickets-table">
+                        <div class="table-price text-center">
                             <h2 class="table-title"><img src="img/computer-world.jpg"></h2>
                             <h3 class="price">Why Computer as a Career?
                             </h3>
                             <hr>
                              <span>8<sup>th</sup> June</span>
-                             <span class="text-danger">10:00 AM - 11:00 AM</span>
+                             <span class="text-danger">11:00 AM - 12:00 PM</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
                             <span >Dr. Stavan Patel</span>
@@ -338,26 +360,23 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
+                 <div class="col-lg-4 col-md-6">
                     <div class="tickets-table">
                         <div class="table-price text-center">
-                            <h2 class="table-title"><img src="img/digital-file.jpg"></h2>
-                            <h3 class="price">Digital File Organization
+                            <h2 class="table-title"><img src="img/search.jpg"></h2>
+                            <h3 class="price">Google Searching Techniques
                             </h3>
                             <hr>
-                             <span>3<sup>rd</sup> June</span>
+                             <span>9<sup>th</sup> June</span>
                              <span class="text-danger">10:00 AM - 11:00 AM</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
-                            <span >Dr.  Falguni Parsana</span>
-                            <hr>
-                               <span class="text-grey">Coloring Folders</span>
-                            <span class="text-grey">Add Emojis to Folders</span>
-                            <span class="text-grey">Uploading, Moving & Sharing Files</span>
-                          
-                             <span class="text-grey">Using Google keep tool</span>
-                              <span class="text-grey">Group Discussion</span>
-                           
+                            <span >Shital Patel</span>
+                            <hr>                            
+                            <span class="text-grey">Use the tabs</span>
+                            <span class="text-grey">Find sites</span>                          
+                            <span class="text-grey">Find Specific File</span>
+                            <span class="text-grey">Using Google keep tool</span>                    
                         </div>
                     </div>
                 </div>
@@ -365,47 +384,19 @@
                  <div class="col-lg-4 col-md-6">
                     <div class="tickets-table">
                         <div class="table-price text-center">
-                            <h2 class="table-title"><img src="img/digital-file.jpg"></h2>
-                            <h3 class="price">Digital File Organization
+                            <h2 class="table-title"><img src="img/ai.jpg"></h2>
+                            <h3 class="price">Introduction of Artificial Intelligence
                             </h3>
                             <hr>
-                             <span>3<sup>rd</sup> June</span>
-                             <span class="text-danger">10:00 AM - 11:00 AM</span>
+                             <span>9<sup>th</sup> June</span>
+                             <span class="text-danger">11:00 AM - 12:00 AM</span>
                              <hr>
                              <span class="text-info">Keynote Speakers</span>
-                            <span >Dr.  Falguni Parsana</span>
+                            <span >Dr. Ripal Ranpara</span>
                             <hr>
-                               <span class="text-grey">Coloring Folders</span>
-                            <span class="text-grey">Add Emojis to Folders</span>
-                            <span class="text-grey">Uploading, Moving & Sharing Files</span>
-                          
-                             <span class="text-grey">Using Google keep tool</span>
-                              <span class="text-grey">Group Discussion</span>
-                           
-                        </div>
-                    </div>
-                </div>
-
-                 <div class="col-lg-4 col-md-6">
-                    <div class="tickets-table">
-                        <div class="table-price text-center">
-                            <h2 class="table-title"><img src="img/digital-file.jpg"></h2>
-                            <h3 class="price">Digital File Organization
-                            </h3>
-                            <hr>
-                             <span>3<sup>rd</sup> June</span>
-                             <span class="text-danger">10:00 AM - 11:00 AM</span>
-                             <hr>
-                             <span class="text-info">Keynote Speakers</span>
-                            <span >Dr.  Falguni Parsana</span>
-                            <hr>
-                               <span class="text-grey">Coloring Folders</span>
-                            <span class="text-grey">Add Emojis to Folders</span>
-                            <span class="text-grey">Uploading, Moving & Sharing Files</span>
-                          
-                             <span class="text-grey">Using Google keep tool</span>
-                              <span class="text-grey">Group Discussion</span>
-                           
+                               <span class="text-grey">What is AI ?</span>
+                            <span class="text-grey">Branches and Rise of it</span>
+                            <span class="text-grey">Applications of it</span>                          
                         </div>
                     </div>
                 </div>
