@@ -236,7 +236,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="tickets-table">
                         <div class="table-price text-center">
-                            <h2 class="table-title"><img src="img/freelancer.png"></h2>
+                            <h2 class="table-title"><img src="img/freelancer.jpg"></h2>
                             <h4 class="price">How to be a successful freelancer
                             </h4>
                             <hr>
@@ -261,7 +261,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="tickets-table">
                         <div class="table-price text-center">
-                            <h2 class="table-title"><img src="img/SCRATCH.jpeg"></h2>
+                            <h2 class="table-title"><img src="img/SCRATCH.png"></h2>
                             <h4 class="price">Logic Building using SCRATCH Tool
                             </h4>
                             <hr>
